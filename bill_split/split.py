@@ -13,6 +13,8 @@ class Split():
             self.output_f_name = output_f_name
             # Initiate an empty dictionary to store final output amounts
             self.output_amount = dict(zip(list(self.ppl_dish.keys()), [0] * len(list(self.ppl_dish.keys()))))
+            # Initiate a zero integer variable to store the sum of final output amounts
+            self.sum_output_amount = 0
             # Calculate everyone's payment amount
             self.calculate()
             # Clean previous application output if any
@@ -39,6 +41,8 @@ class Split():
                                                   ),
                                              file = f
                                              )
+                    self.sum_output_amount = self.sum_output_amount + self.output_amount[person]
+                print('TOTAL: ' + str(self.sum_output_amount), file = f)
                 print('\n', end = '', file = f)
 
         def display_individual(self):
