@@ -1,0 +1,74 @@
+Here's everyone's final amount:
+Frixos: 57.31
+Carlo: 50.14
+Julia: 51.56
+Parinaz: 54.56
+Alvaro: 54.56
+Yifei: 44.99
+
+Here's dishes that each person ordered:
+Frixos:
+1/2 Bruschetta Lardo
+1/6 Misto Imperiale
+1/6 Still Ferrarelle
+1/5 Fiore del Macellaio
+1/2 French Fries
+1/6 Tiramisu
+1/6 Bianco al Basilico
+1/2 Bricco della Fassona Merlo
+1/6 Service Charge
+
+Carlo:
+1/2 Bruschetta Lardo
+1/6 Misto Imperiale
+1/6 Still Ferrarelle
+1/5 Fiore del Macellaio
+1/2 French Fries
+1/2 Spinach
+1/6 Tiramisu
+1/6 Bianco al Basilico
+1/6 Bricco della Fassona Merlo
+1/6 Service Charge
+
+Julia:
+1/6 Misto Imperiale
+1/6 Still Ferrarelle
+1/5 Fiore del Macellaio
+1/2 French Fries
+1/2 Spinach
+1/6 Tiramisu
+1/6 Bianco al Basilico
+1 Orvieto S. Giovanni
+1/6 Service Charge
+
+Parinaz:
+1/6 Misto Imperiale
+1/6 Still Ferrarelle
+1/5 Fiore del Macellaio
+1/2 French Fries
+1/6 Tiramisu
+1/6 Bianco al Basilico
+1/2 Bricco della Fassona Merlo
+1/6 Service Charge
+
+Alvaro:
+1/6 Misto Imperiale
+1/6 Still Ferrarelle
+1/5 Fiore del Macellaio
+1/2 French Fries
+1/6 Tiramisu
+1/6 Bianco al Basilico
+1/2 Bricco della Fassona Merlo
+1/6 Service Charge
+
+Yifei:
+1 Bruschetta Lardo
+1/6 Misto Imperiale
+1/6 Still Ferrarelle
+1 Hanger Steak
+1/2 French Fries
+1/6 Tiramisu
+1/6 Bianco al Basilico
+1/6 Bricco della Fassona Merlo
+1/6 Service Charge
+
